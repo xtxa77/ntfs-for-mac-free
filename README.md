@@ -8,7 +8,8 @@ iLove NTFS for Mac is the best Microsoft NTFS for Mac solution, fully compatible
 
 ## Installation
 
-Download from [GitHub Releases](https://github.com/xtxa77/ntfs-for-mac-free/releases) and install it.
+Download from [GitHub Releases](https://github.com/xtxa77/ntfs-for-mac-free/releases) or [Direct Download](https://ilovemacapp.com/download/iLoveNTFS.dmg) then install it.
+
 
 ## Platform support
 
